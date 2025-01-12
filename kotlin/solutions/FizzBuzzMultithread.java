@@ -1,3 +1,5 @@
+package solutions;
+
 import java.util.function.IntConsumer;
 
 public class FizzBuzzMultithread {
